@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khemmapon&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=khemmapon&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true&disable_animations=false)
 
 <!---
 khemmapon/khemmapon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
