@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @khemmapon.
+- 👋 Hi, I’m Khemmapon.
+- I’m currently working with RoR, Vue.js, React Native, React.js
+- I’m currently learning Flutter.
 
 <!---
 - 👀 I’m interested in RoR, Vue, Machine Learning.
-- 🌱 I’m currently learning RoR.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
