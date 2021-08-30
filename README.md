@@ -7,8 +7,6 @@
 - 📫 How to reach me ...
 --->
 
-![](https://github-readme-stats.vercel.app/api?username=khemmapon&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true&disable_animations=false)
-
 <!---
 khemmapon/khemmapon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -28,3 +26,5 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/github.svg" style="max-width:100%;"></a>
 <br>
 --->
+
+![](https://github-readme-stats.vercel.app/api?username=khemmapon&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true&disable_animations=false)
